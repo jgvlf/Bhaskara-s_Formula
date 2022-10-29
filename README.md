@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/joaogabrielvlf/Bhaskara-s_Formula">
-    <img src="images/parabola.svg" alt="Logo" width="80" height="80">
+    <img src="images/parabola.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Bhaskara's Formula</h3>
