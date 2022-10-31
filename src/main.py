@@ -37,3 +37,15 @@ if(delta < 0):
     exit(0)
 
 
+if(delta == 0):
+    x_u = (-b+sqrt(delta))/2*a   
+    print("\n")
+    print("Resultado da expressão reduzida do segundo grau: ")
+    print(ordem_gráfico)
+    print(f"O \"X\" do vértice é: {xv}, e o \"Y\" do vértice é {yv}.")
+    print(f"Portanto a coordenada do vétice é: ({xv}, {yv})")
+    print(qtd_raizes)
+    print(f"O valor da raiz é: {x_u}")
+    print("\n")
+    exit(0)
+
