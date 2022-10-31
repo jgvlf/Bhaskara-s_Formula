@@ -9,3 +9,13 @@ if(a < 0):
     ordem_gráfico = "O gráfico é decresente."
 else:
     ordem_gráfico = "O gráfico é crescente."
+
+delta = pow(b, 2)-4*a*c
+
+if(delta > 0):
+    qtd_raizes = "Possui 2 raizes."
+elif(delta == 0):
+    qtd_raizes = "Possui apenas 1 raiz."
+else:
+    qtd_raizes = "Não possui raizes."
+
