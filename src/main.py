@@ -26,3 +26,14 @@ if(delta == 0):
 else:
     yv = -delta/4*a
 
+if(delta < 0):
+    print("\n")
+    print("Resultado da expressão reduzida do segundo grau: ")
+    print(ordem_gráfico)
+    print(f"O \"X\" do vértice é: {xv}, e o \"Y\" do vértice é {yv}.")
+    print(f"Portanto a coordenada do vétice é: ({xv}, {yv})")
+    print(qtd_raizes)
+    print("\n")
+    exit(0)
+
+
