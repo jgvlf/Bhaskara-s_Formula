@@ -19,3 +19,10 @@ elif(delta == 0):
 else:
     qtd_raizes = "Não possui raizes."
 
+xv = -b/2*a
+
+if(delta == 0):
+    yv = delta/4*a
+else:
+    yv = -delta/4*a
+
