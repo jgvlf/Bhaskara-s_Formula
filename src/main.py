@@ -1,3 +1,4 @@
+
 from math import pow, sqrt
 from sys import exit
 
@@ -49,3 +50,17 @@ if(delta == 0):
     print("\n")
     exit(0)
 
+else:
+    x1 = (-b+sqrt(delta))/(2*a)
+    x2 = (-b-sqrt(delta))/(2*a)
+    
+    print("\n")
+    print("Resultado da expressão reduzida do segundo grau: ")
+    print(ordem_gráfico)
+    print(f"O \"X\" do vértice é: {xv}, e o \"Y\" do vértice é {yv}.")
+    print(f"Portanto a coordenada do vétice é: ({xv}, {yv})")
+    print(qtd_raizes)
+    print(f"O valor das raizes são: {x1} e {x2}")
+    print("\n")
+    exit(0)
+       
