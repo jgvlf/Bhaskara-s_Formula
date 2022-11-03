@@ -81,7 +81,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 João Gabriel Venceslau Lacerda Fernandes - joaogabrielvlf@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/joaogabrielvlf/Bhaskara-s_Formula](https://github.com/joaogabrielvlf/Bhaskara-s_Formula)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
