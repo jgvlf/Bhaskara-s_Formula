@@ -246,7 +246,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-url]: https://github.com/joaogabrielvlf/Bhaskara-s_Formula/stargazers
 [issues-shield]: https://img.shields.io/github/issues/joaogabrielvlf/Bhaskara-s_Formula?style=for-the-badge
 [issues-url]: https://github.com/joaogabrielvlf/Bhaskara-s_Formula/issues
-[license-shield]: https://img.shields.io/github/license/joaogabrielvlf/Bhaskara-s_Formula.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/joaogabrielvlf/Bhaskara-s_Formula?style=for-the-badge
 [license-url]: https://github.com/joaogabrielvlf/Bhaskara-s_Formula/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/joão-gabriel-venceslau-lacerda-fernandes/
