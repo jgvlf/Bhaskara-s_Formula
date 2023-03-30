@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/joaogabrielvlf/Bhaskara-s_Formula">
+  <a href="https://github.com/jgvlf/Bhaskara-s_Formula">
     <img src="images/parabola.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -41,11 +41,11 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/joaogabrielvlf/Bhaskara-s_Formula">View Demo</a>
+    <a href="https://github.com/jgvlf/Bhaskara-s_Formula">View Demo</a>
     ·
-    <a href="https://github.com/joaogabrielvlf/Bhaskara-s_Formula/issues">Report Bug</a>
+    <a href="https://github.com/jgvlf/Bhaskara-s_Formula/issues">Report Bug</a>
     ·
-    <a href="https://github.com/joaogabrielvlf/Bhaskara-s_Formula/issues">Request Feature</a>
+    <a href="https://github.com/jgvlf/Bhaskara-s_Formula/issues">Request Feature</a>
   </p>
 </div>
 
@@ -81,7 +81,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 João Gabriel Venceslau Lacerda Fernandes - joaogabrielvlf@gmail.com
 
-Project Link: [https://github.com/joaogabrielvlf/Bhaskara-s_Formula](https://github.com/joaogabrielvlf/Bhaskara-s_Formula)
+Project Link: [https://github.com/jgvlf/Bhaskara-s_Formula](https://github.com/jgvlf/Bhaskara-s_Formula)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,18 +90,18 @@ Project Link: [https://github.com/joaogabrielvlf/Bhaskara-s_Formula](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/joaogabrielvlf/Bhaskara-s_Formula.svg?style=for-the-badge
-[contributors-url]: https://github.com/joaogabrielvlf/Bhaskara-s_Formula/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/joaogabrielvlf/Bhaskara-s_Formula?style=for-the-badge
-[forks-url]: https://github.com/joaogabrielvlf/Bhaskara-s_Formula/network/members
-[stars-shield]: https://img.shields.io/github/stars/joaogabrielvlf/Bhaskara-s_Formula?style=for-the-badge
-[stars-url]: https://github.com/joaogabrielvlf/Bhaskara-s_Formula/stargazers
-[issues-shield]: https://img.shields.io/github/issues/joaogabrielvlf/Bhaskara-s_Formula?style=for-the-badge
-[issues-url]: https://github.com/joaogabrielvlf/Bhaskara-s_Formula/issues
-[license-shield]: https://img.shields.io/github/license/joaogabrielvlf/Bhaskara-s_Formula?style=for-the-badge
-[license-url]: https://github.com/joaogabrielvlf/Bhaskara-s_Formula/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/jgvlf/Bhaskara-s_Formula.svg?style=for-the-badge
+[contributors-url]: https://github.com/jgvlf/Bhaskara-s_Formula/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jgvlf/Bhaskara-s_Formula?style=for-the-badge
+[forks-url]: https://github.com/jgvlf/Bhaskara-s_Formula/network/members
+[stars-shield]: https://img.shields.io/github/stars/jgvlf/Bhaskara-s_Formula?style=for-the-badge
+[stars-url]: https://github.com/jgvlf/Bhaskara-s_Formula/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jgvlf/Bhaskara-s_Formula?style=for-the-badge
+[issues-url]: https://github.com/jgvlf/Bhaskara-s_Formula/issues
+[license-shield]: https://img.shields.io/github/license/jgvlf/Bhaskara-s_Formula?style=for-the-badge
+[license-url]: https://github.com/jgvlf/Bhaskara-s_Formula/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/joão-gabriel-venceslau-lacerda-fernandes/
+[linkedin-url]: https://www.linkedin.com/in/jgvlf/
 <!-- [product-screenshot]: images/screenshot.png -->
 [Python]: https://img.shields.io/badge/Python-3C78A9?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
